@@ -1,0 +1,15 @@
+C:\Users\Luan Muruk\Desktop\Senai\aulas csharp\CodigosQUA315025\LogicaIfElse\bin\Debug\net6.0\LogicaIfElse.exe
+C:\Users\Luan Muruk\Desktop\Senai\aulas csharp\CodigosQUA315025\LogicaIfElse\bin\Debug\net6.0\LogicaIfElse.deps.json
+C:\Users\Luan Muruk\Desktop\Senai\aulas csharp\CodigosQUA315025\LogicaIfElse\bin\Debug\net6.0\LogicaIfElse.runtimeconfig.json
+C:\Users\Luan Muruk\Desktop\Senai\aulas csharp\CodigosQUA315025\LogicaIfElse\bin\Debug\net6.0\LogicaIfElse.dll
+C:\Users\Luan Muruk\Desktop\Senai\aulas csharp\CodigosQUA315025\LogicaIfElse\bin\Debug\net6.0\LogicaIfElse.pdb
+C:\Users\Luan Muruk\Desktop\Senai\aulas csharp\CodigosQUA315025\LogicaIfElse\obj\Debug\net6.0\LogicaIfElse.csproj.AssemblyReference.cache
+C:\Users\Luan Muruk\Desktop\Senai\aulas csharp\CodigosQUA315025\LogicaIfElse\obj\Debug\net6.0\LogicaIfElse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luan Muruk\Desktop\Senai\aulas csharp\CodigosQUA315025\LogicaIfElse\obj\Debug\net6.0\LogicaIfElse.AssemblyInfoInputs.cache
+C:\Users\Luan Muruk\Desktop\Senai\aulas csharp\CodigosQUA315025\LogicaIfElse\obj\Debug\net6.0\LogicaIfElse.AssemblyInfo.cs
+C:\Users\Luan Muruk\Desktop\Senai\aulas csharp\CodigosQUA315025\LogicaIfElse\obj\Debug\net6.0\LogicaIfElse.csproj.CoreCompileInputs.cache
+C:\Users\Luan Muruk\Desktop\Senai\aulas csharp\CodigosQUA315025\LogicaIfElse\obj\Debug\net6.0\LogicaIfElse.dll
+C:\Users\Luan Muruk\Desktop\Senai\aulas csharp\CodigosQUA315025\LogicaIfElse\obj\Debug\net6.0\refint\LogicaIfElse.dll
+C:\Users\Luan Muruk\Desktop\Senai\aulas csharp\CodigosQUA315025\LogicaIfElse\obj\Debug\net6.0\LogicaIfElse.pdb
+C:\Users\Luan Muruk\Desktop\Senai\aulas csharp\CodigosQUA315025\LogicaIfElse\obj\Debug\net6.0\LogicaIfElse.genruntimeconfig.cache
+C:\Users\Luan Muruk\Desktop\Senai\aulas csharp\CodigosQUA315025\LogicaIfElse\obj\Debug\net6.0\ref\LogicaIfElse.dll

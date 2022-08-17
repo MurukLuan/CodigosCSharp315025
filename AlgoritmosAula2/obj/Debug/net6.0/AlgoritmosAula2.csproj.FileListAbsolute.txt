@@ -1,0 +1,15 @@
+C:\Users\Luan Muruk\Desktop\Senai\aulas csharp\CodigosQUA315025\AlgoritmosAula2\bin\Debug\net6.0\AlgoritmosAula2.exe
+C:\Users\Luan Muruk\Desktop\Senai\aulas csharp\CodigosQUA315025\AlgoritmosAula2\bin\Debug\net6.0\AlgoritmosAula2.deps.json
+C:\Users\Luan Muruk\Desktop\Senai\aulas csharp\CodigosQUA315025\AlgoritmosAula2\bin\Debug\net6.0\AlgoritmosAula2.runtimeconfig.json
+C:\Users\Luan Muruk\Desktop\Senai\aulas csharp\CodigosQUA315025\AlgoritmosAula2\bin\Debug\net6.0\AlgoritmosAula2.dll
+C:\Users\Luan Muruk\Desktop\Senai\aulas csharp\CodigosQUA315025\AlgoritmosAula2\bin\Debug\net6.0\AlgoritmosAula2.pdb
+C:\Users\Luan Muruk\Desktop\Senai\aulas csharp\CodigosQUA315025\AlgoritmosAula2\obj\Debug\net6.0\AlgoritmosAula2.csproj.AssemblyReference.cache
+C:\Users\Luan Muruk\Desktop\Senai\aulas csharp\CodigosQUA315025\AlgoritmosAula2\obj\Debug\net6.0\AlgoritmosAula2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luan Muruk\Desktop\Senai\aulas csharp\CodigosQUA315025\AlgoritmosAula2\obj\Debug\net6.0\AlgoritmosAula2.AssemblyInfoInputs.cache
+C:\Users\Luan Muruk\Desktop\Senai\aulas csharp\CodigosQUA315025\AlgoritmosAula2\obj\Debug\net6.0\AlgoritmosAula2.AssemblyInfo.cs
+C:\Users\Luan Muruk\Desktop\Senai\aulas csharp\CodigosQUA315025\AlgoritmosAula2\obj\Debug\net6.0\AlgoritmosAula2.csproj.CoreCompileInputs.cache
+C:\Users\Luan Muruk\Desktop\Senai\aulas csharp\CodigosQUA315025\AlgoritmosAula2\obj\Debug\net6.0\AlgoritmosAula2.dll
+C:\Users\Luan Muruk\Desktop\Senai\aulas csharp\CodigosQUA315025\AlgoritmosAula2\obj\Debug\net6.0\refint\AlgoritmosAula2.dll
+C:\Users\Luan Muruk\Desktop\Senai\aulas csharp\CodigosQUA315025\AlgoritmosAula2\obj\Debug\net6.0\AlgoritmosAula2.pdb
+C:\Users\Luan Muruk\Desktop\Senai\aulas csharp\CodigosQUA315025\AlgoritmosAula2\obj\Debug\net6.0\AlgoritmosAula2.genruntimeconfig.cache
+C:\Users\Luan Muruk\Desktop\Senai\aulas csharp\CodigosQUA315025\AlgoritmosAula2\obj\Debug\net6.0\ref\AlgoritmosAula2.dll

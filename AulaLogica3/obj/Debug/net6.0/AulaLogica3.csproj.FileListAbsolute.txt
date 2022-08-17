@@ -1,0 +1,15 @@
+C:\Users\Luan Muruk\Desktop\Senai\aulas csharp\CodigosQUA315025\AulaLogica3\bin\Debug\net6.0\AulaLogica3.exe
+C:\Users\Luan Muruk\Desktop\Senai\aulas csharp\CodigosQUA315025\AulaLogica3\bin\Debug\net6.0\AulaLogica3.deps.json
+C:\Users\Luan Muruk\Desktop\Senai\aulas csharp\CodigosQUA315025\AulaLogica3\bin\Debug\net6.0\AulaLogica3.runtimeconfig.json
+C:\Users\Luan Muruk\Desktop\Senai\aulas csharp\CodigosQUA315025\AulaLogica3\bin\Debug\net6.0\AulaLogica3.dll
+C:\Users\Luan Muruk\Desktop\Senai\aulas csharp\CodigosQUA315025\AulaLogica3\bin\Debug\net6.0\AulaLogica3.pdb
+C:\Users\Luan Muruk\Desktop\Senai\aulas csharp\CodigosQUA315025\AulaLogica3\obj\Debug\net6.0\AulaLogica3.csproj.AssemblyReference.cache
+C:\Users\Luan Muruk\Desktop\Senai\aulas csharp\CodigosQUA315025\AulaLogica3\obj\Debug\net6.0\AulaLogica3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luan Muruk\Desktop\Senai\aulas csharp\CodigosQUA315025\AulaLogica3\obj\Debug\net6.0\AulaLogica3.AssemblyInfoInputs.cache
+C:\Users\Luan Muruk\Desktop\Senai\aulas csharp\CodigosQUA315025\AulaLogica3\obj\Debug\net6.0\AulaLogica3.AssemblyInfo.cs
+C:\Users\Luan Muruk\Desktop\Senai\aulas csharp\CodigosQUA315025\AulaLogica3\obj\Debug\net6.0\AulaLogica3.csproj.CoreCompileInputs.cache
+C:\Users\Luan Muruk\Desktop\Senai\aulas csharp\CodigosQUA315025\AulaLogica3\obj\Debug\net6.0\AulaLogica3.dll
+C:\Users\Luan Muruk\Desktop\Senai\aulas csharp\CodigosQUA315025\AulaLogica3\obj\Debug\net6.0\refint\AulaLogica3.dll
+C:\Users\Luan Muruk\Desktop\Senai\aulas csharp\CodigosQUA315025\AulaLogica3\obj\Debug\net6.0\AulaLogica3.pdb
+C:\Users\Luan Muruk\Desktop\Senai\aulas csharp\CodigosQUA315025\AulaLogica3\obj\Debug\net6.0\AulaLogica3.genruntimeconfig.cache
+C:\Users\Luan Muruk\Desktop\Senai\aulas csharp\CodigosQUA315025\AulaLogica3\obj\Debug\net6.0\ref\AulaLogica3.dll

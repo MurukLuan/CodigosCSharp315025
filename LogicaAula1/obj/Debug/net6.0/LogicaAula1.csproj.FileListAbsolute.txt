@@ -1,0 +1,15 @@
+C:\Users\Luan Muruk\Desktop\Senai\aulas csharp\CodigosQUA315025\LogicaAula1\bin\Debug\net6.0\LogicaAula1.exe
+C:\Users\Luan Muruk\Desktop\Senai\aulas csharp\CodigosQUA315025\LogicaAula1\bin\Debug\net6.0\LogicaAula1.deps.json
+C:\Users\Luan Muruk\Desktop\Senai\aulas csharp\CodigosQUA315025\LogicaAula1\bin\Debug\net6.0\LogicaAula1.runtimeconfig.json
+C:\Users\Luan Muruk\Desktop\Senai\aulas csharp\CodigosQUA315025\LogicaAula1\bin\Debug\net6.0\LogicaAula1.dll
+C:\Users\Luan Muruk\Desktop\Senai\aulas csharp\CodigosQUA315025\LogicaAula1\bin\Debug\net6.0\LogicaAula1.pdb
+C:\Users\Luan Muruk\Desktop\Senai\aulas csharp\CodigosQUA315025\LogicaAula1\obj\Debug\net6.0\LogicaAula1.csproj.AssemblyReference.cache
+C:\Users\Luan Muruk\Desktop\Senai\aulas csharp\CodigosQUA315025\LogicaAula1\obj\Debug\net6.0\LogicaAula1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luan Muruk\Desktop\Senai\aulas csharp\CodigosQUA315025\LogicaAula1\obj\Debug\net6.0\LogicaAula1.AssemblyInfoInputs.cache
+C:\Users\Luan Muruk\Desktop\Senai\aulas csharp\CodigosQUA315025\LogicaAula1\obj\Debug\net6.0\LogicaAula1.AssemblyInfo.cs
+C:\Users\Luan Muruk\Desktop\Senai\aulas csharp\CodigosQUA315025\LogicaAula1\obj\Debug\net6.0\LogicaAula1.csproj.CoreCompileInputs.cache
+C:\Users\Luan Muruk\Desktop\Senai\aulas csharp\CodigosQUA315025\LogicaAula1\obj\Debug\net6.0\LogicaAula1.dll
+C:\Users\Luan Muruk\Desktop\Senai\aulas csharp\CodigosQUA315025\LogicaAula1\obj\Debug\net6.0\refint\LogicaAula1.dll
+C:\Users\Luan Muruk\Desktop\Senai\aulas csharp\CodigosQUA315025\LogicaAula1\obj\Debug\net6.0\LogicaAula1.pdb
+C:\Users\Luan Muruk\Desktop\Senai\aulas csharp\CodigosQUA315025\LogicaAula1\obj\Debug\net6.0\LogicaAula1.genruntimeconfig.cache
+C:\Users\Luan Muruk\Desktop\Senai\aulas csharp\CodigosQUA315025\LogicaAula1\obj\Debug\net6.0\ref\LogicaAula1.dll

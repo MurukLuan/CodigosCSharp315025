@@ -1,0 +1,15 @@
+C:\Users\Luan Muruk\Desktop\Senai\aulas csharp\CodigosQUA315025\OlaMundo\OlaMundo\bin\Debug\net6.0\OlaMundo.exe
+C:\Users\Luan Muruk\Desktop\Senai\aulas csharp\CodigosQUA315025\OlaMundo\OlaMundo\bin\Debug\net6.0\OlaMundo.deps.json
+C:\Users\Luan Muruk\Desktop\Senai\aulas csharp\CodigosQUA315025\OlaMundo\OlaMundo\bin\Debug\net6.0\OlaMundo.runtimeconfig.json
+C:\Users\Luan Muruk\Desktop\Senai\aulas csharp\CodigosQUA315025\OlaMundo\OlaMundo\bin\Debug\net6.0\OlaMundo.dll
+C:\Users\Luan Muruk\Desktop\Senai\aulas csharp\CodigosQUA315025\OlaMundo\OlaMundo\bin\Debug\net6.0\OlaMundo.pdb
+C:\Users\Luan Muruk\Desktop\Senai\aulas csharp\CodigosQUA315025\OlaMundo\OlaMundo\obj\Debug\net6.0\OlaMundo.csproj.AssemblyReference.cache
+C:\Users\Luan Muruk\Desktop\Senai\aulas csharp\CodigosQUA315025\OlaMundo\OlaMundo\obj\Debug\net6.0\OlaMundo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luan Muruk\Desktop\Senai\aulas csharp\CodigosQUA315025\OlaMundo\OlaMundo\obj\Debug\net6.0\OlaMundo.AssemblyInfoInputs.cache
+C:\Users\Luan Muruk\Desktop\Senai\aulas csharp\CodigosQUA315025\OlaMundo\OlaMundo\obj\Debug\net6.0\OlaMundo.AssemblyInfo.cs
+C:\Users\Luan Muruk\Desktop\Senai\aulas csharp\CodigosQUA315025\OlaMundo\OlaMundo\obj\Debug\net6.0\OlaMundo.csproj.CoreCompileInputs.cache
+C:\Users\Luan Muruk\Desktop\Senai\aulas csharp\CodigosQUA315025\OlaMundo\OlaMundo\obj\Debug\net6.0\OlaMundo.dll
+C:\Users\Luan Muruk\Desktop\Senai\aulas csharp\CodigosQUA315025\OlaMundo\OlaMundo\obj\Debug\net6.0\refint\OlaMundo.dll
+C:\Users\Luan Muruk\Desktop\Senai\aulas csharp\CodigosQUA315025\OlaMundo\OlaMundo\obj\Debug\net6.0\OlaMundo.pdb
+C:\Users\Luan Muruk\Desktop\Senai\aulas csharp\CodigosQUA315025\OlaMundo\OlaMundo\obj\Debug\net6.0\OlaMundo.genruntimeconfig.cache
+C:\Users\Luan Muruk\Desktop\Senai\aulas csharp\CodigosQUA315025\OlaMundo\OlaMundo\obj\Debug\net6.0\ref\OlaMundo.dll
