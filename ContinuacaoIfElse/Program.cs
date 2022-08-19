@@ -1,10 +1,10 @@
 ﻿using System.Globalization;
-/*
+
 double teste = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
 
 Console.WriteLine(teste.ToString("F2", CultureInfo.InvariantCulture));
-*/
-/*
+
+
 Console.WriteLine("Entre com o primeiro numero: ");
 int num1 = int.Parse(Console.ReadLine());
 
@@ -22,16 +22,7 @@ Console.WriteLine(Math.Pow(num2, 3));
 Console.WriteLine(Math.Round(25.61534, 2));
 
 Console.WriteLine(Math.PI * 2);
-*/
 
-Console.WriteLine("Entre com o ano: ");
-int ano = int.Parse(Console.ReadLine());
+Console.WriteLine($"O maior numero é {Math.Max(10, 20)}");
 
-if(ano %4 == 0)
-{
-    Console.WriteLine($"É um ano bissexto1 {ano %4}");
-}
-else
-{
-    Console.WriteLine($"Esse ano não é bissexto {ano % 4}");
-}
+
